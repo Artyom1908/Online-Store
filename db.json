@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 13",
+            "description": "The latest iPhone featuring 5G, A15 Bionic chip, and advanced dual-camera system.",
+            "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article21656624.ece/ALTERNATES/s1200b/1_Tech-for-19-September-2021.jpg",
+            "quantity": 10,
+            "price": 999
+        },
+        {
+            "id": 2,
+            "name": "MacBook Air",
+            "description": "The thinnest and lightest MacBook, with Apple M1 chip and up to 18 hours of battery life.",
+            "image": "https://www.scan.co.uk/images/infopages/applelaptop/macbookpro21/16topimgsilv.png",
+            "price": 1299,
+            "quantity": 6
+        },
+        {
+            "id": 3,
+            "name": "iPad Pro",
+            "description": "The ultimate iPad, with M1 chip, 5G connectivity, and Liquid Retina XDR display.",
+            "image": "https://appdom.ru/image/cache/catalog/ipadall/pro21/apple-ipad-pro-11-2021-cellular-silver-1200x630.jpg",
+            "price": 899,
+            "quantity": 8
+        }
+    ]
+}

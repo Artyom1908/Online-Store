@@ -1,6 +1,6 @@
 import React from 'react'
 import './index.css'
-import Header from './components/header'
+import Header from './components/Header'
 import { Route, Routes } from 'react-router-dom'
 import Home from './components/Home'
 import Basket from './components/Basket'
